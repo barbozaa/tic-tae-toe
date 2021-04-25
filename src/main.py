@@ -80,7 +80,6 @@ class TicTacToe(object):
 
 
 if __name__ == '__main__':
-    option = ''
     t = TicTacToe()
     t.welcome()
     t.print()
